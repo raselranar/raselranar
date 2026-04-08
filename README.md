@@ -1,9 +1,16 @@
-![](https://komarev.com/ghpvc/?username=your-username&style=for-the-badge)
+<!-- 🔥 Banner Image -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Rasel%20Rana&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<img align="right" alt="coding" width="350" src="./assets/coding.gif"/>
+<!-- 👁 Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=raselranar&style=for-the-badge" />
+</p>
 
+<!-- 🧑‍💻 Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Rasel;MERN+Stack+Developer;I+Build+Modern+Web+Apps&center=true&size=28">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Rasel+Rana;MERN+Stack+Developer;I+Build+Modern+Web+Apps;JavaScript+Lover&center=true&size=28">
 </h1>
 
 <h3 align="center">
@@ -20,26 +27,34 @@ React • Next.js • Node.js • MongoDB
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 💻 Passionate **JavaScript Developer**
-- 🧠 Learning **JavaScript deeply (core concepts + internal working)**
-- ⚛️ Building apps with **React & Node.js**
-- 📱 Goal: **Real-World Web Applications**
-- 🔥 Love solving **real-world problems**
+Hi, I'm Rasel 👋  
+I am a passionate JavaScript developer who loves building modern and real-world web applications.  
+I enjoy understanding how things work internally and solving real-life problems with code.
+
+- 🔥 Currently exploring **Next.js**
+- 🧠 Learning **JavaScript deeply (core + internal concepts)**
+- ⚛️ Building projects using **React & Node.js**
+- 🌍 Working on **real-world web applications**
+- 🚀 Goal: Become a **high-level full-stack developer**
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/raselrana-dev/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:raselranar2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/raselrana-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:raselranar2005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 🧰 Tech Stack
+## 🧰 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,react,next,nodejs,express,mongodb,git,github,vscode" />
@@ -47,17 +62,20 @@ React • Next.js • Node.js • MongoDB
 
 ---
 
-
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raselranar&show_icons=true&theme=tokyonight"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raselranar&theme=tokyonight"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raselranar&layout=compact&theme=tokyonight"/>
+</p>
+
 ---
 
-### 🎯 Current Focus
+## 🎯 Current Focus
 
 - 🔥 Mastering **JavaScript (ES6+)**
 - ⚛️ Deep dive into **React**
@@ -65,7 +83,7 @@ React • Next.js • Node.js • MongoDB
 
 ---
 
-### 🧠 Coding Profile
+## 🧠 Coding Profile
 
 ```javascript
 const rasel = {
@@ -73,5 +91,5 @@ const rasel = {
   code: ["JavaScript", "HTML", "CSS"],
   tools: ["React", "Next.js", "Node.js", "Express", "MongoDB"],
   currentFocus: "Deep JavaScript + Real Projects",
-  futureGoal: "Real-World Web Applications",
+  futureGoal: "High-level Full Stack Developer",
 };
