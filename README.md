@@ -18,7 +18,7 @@
 </h3>
 
 <p align="center">
-React • Next.js • Node.js • MongoDB
+React • Next.js • Node.js • MongoDB • TypeScript
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@ I enjoy understanding how things work internally and solving real-life problems 
 
 - 🔥 Currently exploring **Next.js**
 - 🧠 Learning **JavaScript deeply (core + internal concepts)**
-- ⚛️ Building projects using **React & Node.js**
+- ⚛️ Building projects using **React, Node.js & TypeScript**
 - 🌍 Working on **real-world web applications**
 - 🚀 Goal: Become a **high-level full-stack developer**
 
@@ -57,7 +57,7 @@ I enjoy understanding how things work internally and solving real-life problems 
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,next,nodejs,express,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,ts,next,nodejs,express,mongodb,git,github,vscode" />
 </p>
 
 ---
@@ -77,8 +77,8 @@ I enjoy understanding how things work internally and solving real-life problems 
 
 ## 🎯 Current Focus
 
-- 🔥 Mastering **JavaScript (ES6+)**
-- ⚛️ Deep dive into **React**
+- 🔥 Mastering **TypeScript**
+- ⚛️ Deep dive into **Nextjs**
 - 🧩 Building **real-world projects**
 
 ---
@@ -89,7 +89,7 @@ I enjoy understanding how things work internally and solving real-life problems 
 const rasel = {
   role: "MERN Stack Developer",
   code: ["JavaScript", "HTML", "CSS"],
-  tools: ["React", "Next.js", "Node.js", "Express", "MongoDB"],
-  currentFocus: "Deep JavaScript + Real Projects",
+  tools: ["React", "Next.js", "Node.js", "Express", "MongoDB",TypeScript],
+  currentFocus: "Deep TypeScript + Real Projects",
   futureGoal: "High-level Full Stack Developer",
 };
